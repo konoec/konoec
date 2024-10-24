@@ -6,8 +6,6 @@ Hi, I'm Gabriel, a
 <a href="https://www.utp.edu.pe/">UTP</a> 
 student in the 8th cycle of Systems and Computer Engineering with a specialization in software development and project management. Welcome!
 
-<br>
-
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -45,8 +43,6 @@ public class GabrielPaiva {
 ```
 
 ## My Statistics
-
-<br/>
 
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=konoec&show_icons=true&theme=gruvbox&hide_border=true" />
