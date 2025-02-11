@@ -6,7 +6,7 @@
 
 Hi, I'm Gabriel, a 
 <a href="https://www.utp.edu.pe/">UTP</a> 
-student in the 8th cycle of Systems and Computer Engineering with a specialization in software development and project management. Welcome!
+student in the 9th cycle of Systems and Computer Engineering with a specialization in software development and project management. Welcome!
 
 <p>
 <div align="center">
