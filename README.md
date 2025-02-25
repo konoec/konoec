@@ -30,7 +30,7 @@ public class GabrielPaiva {
         this.name = "Gabriel Paiva";
         this.username = "konoec";
         this.location = "Chiclayo, Perú";
-        this.linkedin = "@gabrielpaiva2608";
+        this.linkedin = "@konoec";
     }
 
     @Override
