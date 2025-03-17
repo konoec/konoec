@@ -1,4 +1,4 @@
-[![Head](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://www.linkedin.com/in/gabrielpaiva2608/)
+[![Head](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://www.linkedin.com/in/konoec/)
 
 <h1 align="center">
   <b>Gabriel Antonio Paiva Quispe</b>
@@ -48,9 +48,6 @@ public class GabrielPaiva {
 }
 
 ```
-
-### ⚙️ &nbsp;GitHub Analytics
-
 <a href="https://github.com/konoec">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=konoec&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">    
   </a>
