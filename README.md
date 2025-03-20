@@ -1,12 +1,14 @@
 [![Head](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://www.linkedin.com/in/konoec/)
 
-<h1 align="center">
-  <b>Gabriel Antonio Paiva Quispe</b>
-</h1>
+<p align="center">
+  
+</p>
 
-Hi, I'm Gabriel, a 
-<a href="https://www.utp.edu.pe/">UTP</a> 
-student in the 9th cycle of Systems and Computer Engineering with a specialization in software development and project management. Welcome!
+<p align="center">
+  <img alt="Sergie Code" src="https://raw.githubusercontent.com/sergiecode/sergiecode/main/Hand%20Wave.gif" width='40' align="left">
+  <h2>Hey everyone! I'm KONOEC</h2>
+</p>
+Hi, I'm Gabriel Paiva, a student in the 9th cycle of Systems and Computer Engineering with a specialization in software development and project management. Welcome!
 
 <p>
 <div align="center">
@@ -27,7 +29,7 @@ student in the 9th cycle of Systems and Computer Engineering with a specializati
 
 <p align="center">
   <a href="https://github.com/konoec">
-    <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=konoec&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
-    <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=konoec&layout=compact&langs_count=8&theme=algolia">
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=konoec&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=konoec&layout=compact&langs_count=8&theme=algolia">
   </a>
 </p>
