@@ -29,9 +29,9 @@ Hi, I'm Gabriel Paiva, a student in the 9th cycle of Systems and Computer Engine
 
 <div align="center">
   <a href="https://github.com/konoec">
-    <img src="https://github-readme-stats.vercel.app/api?username=konoec&theme=algolia&include_all_commits=true&count_private=true&card_width=450&show_icons=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=konoec&include_all_commits=true&count_private=true&card_width=450&show_icons=true&theme=algolia">
   </a>
   <a href="https://github.com/konoec">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=konoec&layout=compact&theme=algolia&langs_count=8&card_width=350">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=konoec&layout=compact&langs_count=8&card_width=350&theme=algolia">
   </a>
 </div>
