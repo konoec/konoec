@@ -35,5 +35,3 @@ Hi, I'm Gabriel Paiva, a student in the 9th cycle of Systems and Computer Engine
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=konoec&layout=compact&langs_count=8&theme=algolia&card_width=350">
   </a>
 </div>
-
-
