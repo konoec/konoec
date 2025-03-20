@@ -27,7 +27,7 @@ Hi, I'm Gabriel Paiva, a student in the 9th cycle of Systems and Computer Engine
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+<div align="center">
   <a href="https://github.com/konoec">
     <img src="https://github-readme-stats.vercel.app/api?username=konoec&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&card_width=450">
   </a>
