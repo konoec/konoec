@@ -23,33 +23,7 @@ student in the 9th cycle of Systems and Computer Engineering with a specializati
 </div>
 </p>
 
-```java
-public class GabrielPaiva {
-
-    private String name;
-    private String username;
-    private String location;
-    private String linkedin;
-
-    public GabrielPaiva() {
-        this.name = "Gabriel Paiva";
-        this.username = "konoec";
-        this.location = "Chiclayo, Perú";
-        this.linkedin = "@konoec";
-    }
-
-    @Override
-    public String toString() {
-        return name;
-    }
-
-    public static void main(String[] args) {
-        GabrielPaiva me = new GabrielPaiva();
-        System.out.println(me);
-    }
-}
-
-```
 <a href="https://github.com/konoec">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=konoec&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">    
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=konoec&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=konoec&layout=compact&langs_count=8&theme=algolia">
   </a>
