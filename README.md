@@ -12,6 +12,8 @@ Hi, I'm Gabriel Paiva, a student in the 9th cycle of Systems and Computer Engine
 
 ## 🛠️ Tecnologías y Herramientas
 
+## 🛠️ Tecnologías y Herramientas
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -22,6 +24,10 @@ Hi, I'm Gabriel Paiva, a student in the 9th cycle of Systems and Computer Engine
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
+![Doctrine](https://img.shields.io/badge/Doctrine-FF6C37?style=for-the-badge&logo=doctrine&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## ⚙️ &nbsp;GitHub Analytics
 
