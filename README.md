@@ -8,7 +8,7 @@
   <img alt="Sergie Code" src="https://raw.githubusercontent.com/sergiecode/sergiecode/main/Hand%20Wave.gif" width='40' align="left">
   <h2>Hey everyone! I'm KONOEC</h2>
 </p>
-Hi, I'm Gabriel Paiva, a student in the 9th cycle of Systems and Computer Engineering with a specialization in software development and project management. Welcome!
+Hi, I'm Gabriel Paiva, Systems and Computer Engineer, specialized in software development and project management. Welcome!
 
 ## 🛠️ Tecnologías y Herramientas
 
